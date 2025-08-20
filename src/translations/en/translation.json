@@ -1,0 +1,77 @@
+{
+  "homepage": {
+    "title1": "Your Style,",
+    "title2": "Your Essence",
+    "clothing": "Clothing with",
+    "attitute": "attitute",
+    "version": ", for every version of you.",
+    "style": "Find your style here.",
+    "more": "See more"
+  },
+  "categories": {
+    "name": "Categories",
+    "single_name": "Category",
+    "pants": "Pants",
+    "dresses": "Dresses",
+    "tops": "Tops",
+    "skirts": "Skirts",
+    "heels": "Heels"
+  },
+  "copyright": {
+    "all": "All rights reserved."
+  },
+  "header": {
+    "shipping": "Free shipping on all orders over $50",
+    "english": "English",
+    "spanish": "Spanish",
+    "account": "Account",
+    "logout": "Logout",
+    "search": "Search here..."
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty.",
+    "add": "Add to cart",
+    "details": "View Details",
+    "action_add1": "Successfully added",
+    "action_add2": "to the cart",
+    "action": "Oops, there seems to be an error",
+    "total_articles": "Total Articles: ",
+    "total_amount": "Total Amount: ",
+    "place_order": "Place Order",
+    "delete": "Delete",
+    "product": "Product",
+    "deleted": "Deleted",
+    "successfully": "Successfully",
+    "quantity": "Qty: "
+  },
+  "menu": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "filter": {
+    "min_price": "Min Price",
+    "max_price": "Max Price",
+    "category": "Category",
+    "articles": "Articles",
+    "all": "all"
+  },
+  "offers": {
+    "title": "Discover the best offers on clothing and footwear.",
+    "subtitle": "Check out our discounts from 15% to 50% off selected products.",
+    "button": "See Offers"
+  },
+  "footer": {
+    "contact": "Contact",
+    "follow": "Follow Us",
+    "location": "Location",
+    "help": "Help",
+    "faqs": "Faqs",
+    "shipping": "Shipping and returns",
+    "privacy": "Privacy Policy",
+    "rights": "Be U. All Rights Reserved",
+    "Spain": "Spain"
+  }
+}
